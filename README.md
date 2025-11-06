@@ -1,1 +1,1 @@
-Welcome to the Random Number Guesser, where you’ll spend way too long trying to guess what your computer is thinking. It’s simple: the computer picks a number, and you pretend you’re smarter than pure randomness. Every wrong guess gets roasted with a “too high” or “too low,” because apparently you need hints. Keep guessing until you finally get it — or rage quit. 
+
